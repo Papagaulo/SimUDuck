@@ -1,11 +1,10 @@
 package Models.QuackBehaviors;
 
-public class RealQuack implements QuackBehavior{
+public class MuteQuack implements QuackBehavior {
 
     @Override
     public void Quack() {
         // TODO Auto-generated method stub
-        System.out.println("Quack");
         
     }
     
